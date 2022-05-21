@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: David H Zhan
 title: Biomedical Researcher
-email: <to_add>
+#email: <to_add>
 website: https://david-h-zhan.github.io/resume/
 
 # Dark Mode (true/false/never)
@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: david-huiwang-zhan-383ba23a
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
