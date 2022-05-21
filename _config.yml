@@ -51,12 +51,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am a postdoctoral researcher at Johns Hopkins University, School of Medicine. Over the past 13+ years, I have
   accumulated extensive research experience in cancer, immunology, neuroscience and drug discovery, as well as
   experience in a wide range of cutting-edge biotechnologies and computational methods.
-  My research articles have been published in high-impact journals such as Developmental Cell, Science Advances
-  and PNAS, in addition to being invited for oral presentations at many international conferences, a list of which
+  My research articles have been published in high-impact journals such as _Developmental Cell_, _Science Advances_
+  and _PNAS_, in addition to being invited for oral presentations at many international conferences, a list of which
   can be found towards the bottom of this page.
+
   In my spare time, I have participated in many extracurricular activities that have helped me develop my soft skills
   and gather commercial experiences. Examples include leading a team in student consulting case competitions and
-  undertaking short-term projects at consulting and investment firms such as _McKinsey_ and _T. Rowe Price_.
+  undertaking short-term projects at consulting and investment firms such as _McKinsey_ and _T. Rowe Price_ -- again
+  a long list of these can be found below.
 
 content:
   - title: Academic Experience # Title for the section
