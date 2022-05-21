@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a postdoctoral researcher at Johns Hopkins University, School of Medicine. Over the past 13+ years, I have
+  I am a postdoctoral researcher at _Johns Hopkins University, School of Medicine_. Over the past 13+ years, I have
   accumulated extensive research experience in cancer, immunology, neuroscience and drug discovery, as well as
   experience in a wide range of cutting-edge biotechnologies and computational methods.
   My research articles have been published in high-impact journals such as _Developmental Cell_, _Science Advances_
