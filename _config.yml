@@ -236,6 +236,7 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      Articles:
       - **Zhan, H.**, Huang, C.H. and Devreotes, P.N., 2022. Glycolysis is enriched as propagating waves in cell cortex as a new mechanism for cancer cell progression. _(In Preparation)_
       - **Zhan, H.**, Bhattacharya, S., Cai, H., Iglesias, P.A., Huang, C.H. and Devreotes, P.N., 2020. An excitable Ras/PI3K/ERK signaling network controls migration and oncogenic transformation in epithelial cells. <mark>Developmental Cell</mark>, 54(5), pp.608-623. _(Selected for [Cover Story](https://www.cell.com/developmental-cell/issue?pii=S1534-5807(19)X0018-0#Articles))_
       - Bhattacharya, S., Banerjee, T., Miao, Y., **Zhan, H.**, Devreotes, P.N. and Iglesias, P.A., 2020. Traveling and standing waves mediate pattern formation in cellular protrusions. <mark>Science Advances</mark>, 6(32), p.eaay7682.
