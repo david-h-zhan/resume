@@ -182,7 +182,7 @@ content:
           and provided two innovative proposals to the client.
 
       - layout: top
-        title: BrainFrame Inc. (a start-up project under the Johns Hopkins Medical Entrepreneurship Program)
+        title: BrainFrame Inc. (start-up project under Johns Hopkins Medical Entrepreneurship Program)
         sub_title: Chief Science Officer
         caption: 2016.10 - 2016.12
         description: | # this will include new lines to allow paragraphs
@@ -202,6 +202,17 @@ content:
         title: Graduate Student Association, JHU
         sub_title: Executive Board Member, Representative of BC Program
         caption: 2016.08 - 2019.07
+
+  - title: Other Experience # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Team Leader, Biotech & Healthcare Consulting Case Competition (Johns Hopkins Graduate Consulting Club) _(2017.04)_
+      - Team Leader, Consulting Case Competition (Johns Hopkins Graduate Consulting Club) _(2016.11)_
+      - Program Facilitator for the National Youth Leadership Forum (NYLF) in Medicine (Washington DC Session) _(2014.06)_
+
+      - Organizer & Host of Lewis Talks (Serial Academic Seminars of Cell Biology Department in Johns Hopkins University School of Medicine) _(2022.01-2022.06)_
+      - Teaching Assistant for Cell Physiology Course for Medical Student (Johns Hopkins University) _(2015 - 2019)_
+      - Studied courses in Drug Discovery & Business: _Introduction to Drug Discovery Research, Drug Discovery Case Studies, Pharmaceutical Enterprise, Medical Entrepreneurship, Fundamental Accounting, Fundamental Financing_ _(2016 - 2018)_
 
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
