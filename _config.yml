@@ -138,19 +138,41 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #          Some description about the project
 
-  - title: Experience # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Some Company
-        link: boringcompany.com
+        title: McKinsey & Company
+#        link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Job title
-        caption: November 2017 - Present
-        quote: >
-          Some quote*
+        sub_title: Externship
+        caption: 2018.07 - 2018.08
+#        quote: >
+#          Some quote*
         description: | # this will include new lines to allow paragraphs
-          Some description of the role
+          Part-time Literature Reviewer for Innovative Cancer Treatment Project.
+
+      - layout: left
+        title: McKinsey & Company
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Externship
+        caption: 2018.01 - 2018.02
+        # quote: >
+        #   Some quote*
+        description: | # this will include new lines to allow paragraphs
+          Part-time Literature Reviewer for Immunological Drug Project.
+
+      - layout: left
+        title: T. Rowe Price Investment Management Company
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Externship
+        caption: 2017.07 - 2017.09
+        # quote: >
+        #   Some quote*
+        description: | # this will include new lines to allow paragraphs
+          Research project studying the Biotech & Pharmaceutical stocks.
 
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
