@@ -9,7 +9,7 @@ version: 2
 name: David H Zhan
 title: Biomedical Researcher
 #email: <to_add>
-website: https://david-h-zhan.github.io/resume/
+website: <https://david-h-zhan.github.io/resume/>
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,7 +48,7 @@ linkedin_username: david-huiwang-zhan-383ba23a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm going to add this later
+  Hi, this page is still a work-in-progress, please check back later.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -93,18 +93,27 @@ content:
         title: Johns Hopkins University, School of Medicine
         caption: 2012 - 2020
         sub_title: Doctor of Philosophy (Ph.D.), Biological Chemistry
-        quote: >
-          Some quote*
+#        quote: >
+#          Some quote*
         description: | # this will include new lines to allow paragraphs
+          My main PhD work found that the excitable signaling and cytoskeletal network components controlling cell
+          migration and oncogenic transformation propagate as cortical waves, and this work led to a completely
+          novel view of cancer progression as a shift to a lower threshold of these excitable networks.
+          With the help of computational simulations, this work provided a systems-level understanding of the intrinsic
+          property of these networks and raised up threshold as the new potential target for cancer assessment
+          and intervention. The manuscript was published in <mark>Developmental Cell</mark> and featured as the
+          [cover article](https://www.cell.com/developmental-cell/issue?pii=S1534-5807(19)X0018-0#Articles).
+
           Mentors:
           - 2014 - 2020: Peter Devreotes & Chuan-Hsiang (Bear) Huang
-          - 2012 - 2014: <to add>
+          - 2012 - 2014: (to add)
+
       - layout: top
         title: Xiamen University, China
         caption: 2008 - 2012
-        sub_title: Bachelor of Science (B.S.), Biological Sciences
-        quote: >
-          GPA: 3.92/4*
+        sub_title: Bachelor of Science (B.S.), Biological Sciences *(GPA 3.92/4)*
+#        quote: >
+#          GPA: 3.92/4*
         description: | # this will include new lines to allow paragraphs
           Exchange experiences:
           - 2011.07 - 2012.04: Peking University, China
