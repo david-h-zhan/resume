@@ -104,7 +104,7 @@ content:
           caption: 2008 - 2012
           sub_title: Bachelor of Science (B.S.), Biological Sciences
           quote: >
-            GPA: 3.92/4*
+            quote*
           description: | # this will include new lines to allow paragraphs
             Exchange experiences:
             - 2011.07 - 2012.04: Peking University, China
