@@ -56,7 +56,7 @@ content:
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top # (options: left, right, top, top-right, top-middle)
         title: Johns Hopkins University, School of Medicine
         caption: 2020 - present
         sub_title: Postdoctoral Fellow, Peter Devreotes Lab
@@ -141,29 +141,37 @@ content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: McKinsey & Company
 #        link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Externship
-        caption: 2018.07 - 2018.08
-#        quote: >
-#          Some quote*
-        description: | # this will include new lines to allow paragraphs
-          Part-time Literature Reviewer for Innovative Cancer Treatment Project.
+        jobs:
+          - title: Externship
+            dates: 2018.07 - 2018.08
+            description: Part-time Literature Reviewer for Innovative Cancer Treatment Project.
+          - title:
+            dates: 2018.01 - 2018.02
+            description: Part-time Literature Reviewer for Immunological Drug Project.
 
-      - layout: left
-        title: McKinsey & Company
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Externship
-        caption: 2018.01 - 2018.02
-        # quote: >
-        #   Some quote*
-        description: | # this will include new lines to allow paragraphs
-          Part-time Literature Reviewer for Immunological Drug Project.
+#        sub_title: Externship
+#        caption: 2018.07 - 2018.08
+##        quote: >
+##          Some quote*
+#        description: | # this will include new lines to allow paragraphs
+#          Part-time Literature Reviewer for Innovative Cancer Treatment Project.
 
-      - layout: left
+#      - layout: top
+#        title: McKinsey & Company
+#        # link: boringcompany.com
+#        # link_text: boringcompany.com
+#        sub_title: Externship
+#        caption: 2018.01 - 2018.02
+#        # quote: >
+#        #   Some quote*
+#        description: | # this will include new lines to allow paragraphs
+#          Part-time Literature Reviewer for Immunological Drug Project.
+
+      - layout: top
         title: T. Rowe Price Investment Management Company
         # link: boringcompany.com
         # link_text: boringcompany.com
