@@ -31,7 +31,7 @@ linkedin_username: david-huiwang-zhan-383ba23a
 
 # Additional icon links
 additional_links:
-- title: resume
+- title: My resume
   icon: fas fa-globe
   url: https://david-h-zhan.github.io/resume/
 # - title: another link
@@ -119,24 +119,24 @@ content:
           - 2009.06 - 2010.05, _Cancer Drug Screen_, Qing-Xi Chen Lab, State Key Lab of Cellular Stress Biology, Xiamen University\\
           Investigated how a novel anti-cancer drug (ESC-3) induces apoptosis of human bile duct carcinoma cells.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Some description about the project
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title: sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          Some description about the project
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
