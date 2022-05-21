@@ -48,9 +48,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, this page is still a work-in-progress, please check back later.
-
-#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am a postdoctoral researcher at Johns Hopkins University, School of Medicine. Over the past 13+ years, I have
+  accumulated extensive research experience in cancer, immunology, neuroscience and drug discovery, as well as
+  experience in a wide range of cutting-edge biotechnologies and computational methods.
+  My research articles have been published in high-impact journals such as Developmental Cell, Science Advances
+  and PNAS, in addition to being invited for oral presentations at many international conferences, a list of which
+  can be found towards the bottom of this page.
+  In my spare time, I have participated in many extracurricular activities that have helped me develop my soft skills
+  and gather commercial experiences. Examples include leading a team in student consulting case competitions and
+  undertaking short-term projects at consulting and investment firms such as _McKinsey_ and _T. Rowe Price_.
 
 content:
   - title: Academic Experience # Title for the section
@@ -83,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Mentors:
           - 2014 - 2020: Peter Devreotes & Chuan-Hsiang (Bear) Huang
-          - 2012 - 2014: (to add)
+          - 2012 - 2014: Gregg Semenza
 
           My main PhD work found that the excitable signaling and cytoskeletal network components controlling cell
           migration and oncogenic transformation propagate as cortical waves, and this work led to a completely
@@ -182,7 +188,7 @@ content:
         sub_title: Externship, Part-time Consultant in Biotechnology Division
         caption: 2016.10 - 2017.05
         description: | # this will include new lines to allow paragraphs
-          Reviewed and evaluated 3 biotechnology start-up projects.
+          Analyzed and evaluated 3 biotechnology start-up projects.
 
       - layout: top
         title: Johns Hopkins Graduate Consulting Club
