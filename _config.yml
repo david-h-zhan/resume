@@ -9,7 +9,7 @@ version: 2
 name: David H Zhan
 title: Biomedical Researcher
 #email: <to_add>
-website: <https://david-h-zhan.github.io/resume/>
+website: https://david-h-zhan.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -30,10 +30,10 @@ linkedin_username: david-huiwang-zhan-383ba23a
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: resume
+  icon: fas fa-globe
+  url: https://david-h-zhan.github.io/resume/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -111,13 +111,25 @@ content:
       - layout: top
         title: Xiamen University, China
         caption: 2008 - 2012
-        sub_title: Bachelor of Science (B.S.), Biological Sciences *(GPA 3.92/4)*
+        sub_title: Bachelor of Science (B.S.), Biological Sciences
 #        quote: >
 #          GPA: 3.92/4*
         description: | # this will include new lines to allow paragraphs
+          _GPA: 3.92/4_
+
           Exchange experiences:
           - 2011.07 - 2012.04: Peking University, China
           - 2011.02 - 2011.06 National Tsing Hua University, Taiwan
+
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+      content: | # this will include new lines to allow paragraphs
+        - **Zhan, H.**, Huang, C.H. and Devreotes, P.N., 2022. Glycolysis is enriched as propagating waves in cell cortex as a new mechanism for cancer cell progression. **(In Preparation)**
+        - **Zhan, H.**, Bhattacharya, S., Cai, H., Iglesias, P.A., Huang, C.H. and Devreotes, P.N., 2020. An excitable Ras/PI3K/ERK signaling network controls migration and oncogenic transformation in epithelial cells. <mark>Developmental Cell</mark>, 54(5), pp.608-623. **(Selected for Cover Story)**
+        - Bhattacharya, S., Banerjee, T., Miao, Y., **Zhan, H.**, Devreotes, P.N. and Iglesias, P.A., 2020. Traveling and standing waves mediate pattern formation in cellular protrusions. <mark>Science Advances</mark>, 6(32), p.eaay7682.
+        - Neumann, N.M., Perrone, M.C., Veldhuis, J.H., Huebner, R.J., **Zhan, H.**, Devreotes, P.N., Brodland, G.W. and Ewald, A.J., 2018. Coordination of receptor tyrosine kinase signaling and interfacial tension dynamics drives radial intercalation and tube elongation. <mark>Developmental Cell</mark>, 45(1), pp.67-82.
+        - Cai, Z., Luo, W., **Zhan, H.** and Semenza, G.L., 2013. Hypoxia-inducible factor 1 is required for remote ischemic preconditioning of the heart. <mark>Proceedings of the National Academy of Sciences</mark>, 110(43), pp.17462-17467.
+        - Song, W., Shen, D.Y., Kang, J.H., Li, S.S., **Zhan, H.**W., Shi, Y., Xiong, Y.X., Liang, G. and Chen, Q.X., 2012. Apoptosis of human cholangiocarcinoma cells induced by ESC-3 from Crocodylus siamensis bile. <mark>World Journal of Gastroenterology: WJG</mark>, 18(7), p.704.
 
   - title: A Little More About Me
     layout: text
