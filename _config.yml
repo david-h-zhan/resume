@@ -89,7 +89,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Johns Hopkins University, School of Medicine
         caption: 2012 - 2020
         sub_title: Doctor of Philosophy (Ph.D.), Biological Chemistry
@@ -99,7 +99,7 @@ content:
           Mentors:
           - 2014 - 2020: Peter Devreotes & Chuan-Hsiang (Bear) Huang
           - 2012 - 2014: <to add>
-      - layout: left
+      - layout: top
         title: Xiamen University, China
         caption: 2008 - 2012
         sub_title: Bachelor of Science (B.S.), Biological Sciences
