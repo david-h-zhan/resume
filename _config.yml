@@ -53,42 +53,27 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Some description about the project
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Some Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Job title
-        caption: November 2017 - Present
-        quote: >
-          Some quote*
-        description: | # this will include new lines to allow paragraphs
-            Some description of the role
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top
+        title: Johns Hopkins University, School of Medicine
+        caption: 2020 - present
+        sub_title: Postdoctoral Fellow, Peter Devreotes Lab
+        #        quote: >
+        #          Some quote*
+        description: | # this will include new lines to allow paragraphs
+          Mentor: Peter Devreotes _(Member of the National Academy of Sciences, Department Chair at JHU-SOM)_
+
+          My Post-doctoral research focuses on energy regulation of cancer cells. Tumors are inclined to metabolize
+          glucose anaerobically through glycolysis with lower ATP production efficiency rather than aerobically
+          even when oxygen is available. This was reported by Otto Warburg 100 years ago, yet the mechanism
+          hitherto is not well-understood. My new findings have led us to propose a completely novel mechanism
+          that glycolysis can be enriched and accelerated in cell cortex instead of only taking place in the cytosol
+          as traditionally viewed, and this provides an exciting explanation on the Warburg effect in cancer cells.
+          We are currently preparing the manuscript for publication and we believe this is a potentially
+          paradigm-shifting research, and will have far-reaching implications for understanding and treating cancer.
+
       - layout: top
         title: Johns Hopkins University, School of Medicine
         caption: 2012 - 2020
@@ -121,15 +106,67 @@ content:
           - 2011.07 - 2012.04: Peking University, China
           - 2011.02 - 2011.06 National Tsing Hua University, Taiwan
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Some description about the project
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Some Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Job title
+        caption: November 2017 - Present
+        quote: >
+          Some quote*
+        description: | # this will include new lines to allow paragraphs
+          Some description of the role
+
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **Zhan, H.**, Huang, C.H. and Devreotes, P.N., 2022. Glycolysis is enriched as propagating waves in cell cortex as a new mechanism for cancer cell progression. **(In Preparation)**
-      - **Zhan, H.**, Bhattacharya, S., Cai, H., Iglesias, P.A., Huang, C.H. and Devreotes, P.N., 2020. An excitable Ras/PI3K/ERK signaling network controls migration and oncogenic transformation in epithelial cells. <mark>Developmental Cell</mark>, 54(5), pp.608-623. **(Selected for Cover Story)**
+      - **Zhan, H.**, Huang, C.H. and Devreotes, P.N., 2022. Glycolysis is enriched as propagating waves in cell cortex as a new mechanism for cancer cell progression. _(In Preparation)_
+      - **Zhan, H.**, Bhattacharya, S., Cai, H., Iglesias, P.A., Huang, C.H. and Devreotes, P.N., 2020. An excitable Ras/PI3K/ERK signaling network controls migration and oncogenic transformation in epithelial cells. <mark>Developmental Cell</mark>, 54(5), pp.608-623. _(Selected for Cover Story)_
       - Bhattacharya, S., Banerjee, T., Miao, Y., **Zhan, H.**, Devreotes, P.N. and Iglesias, P.A., 2020. Traveling and standing waves mediate pattern formation in cellular protrusions. <mark>Science Advances</mark>, 6(32), p.eaay7682.
       - Neumann, N.M., Perrone, M.C., Veldhuis, J.H., Huebner, R.J., **Zhan, H.**, Devreotes, P.N., Brodland, G.W. and Ewald, A.J., 2018. Coordination of receptor tyrosine kinase signaling and interfacial tension dynamics drives radial intercalation and tube elongation. <mark>Developmental Cell</mark>, 45(1), pp.67-82.
       - Cai, Z., Luo, W., **Zhan, H.** and Semenza, G.L., 2013. Hypoxia-inducible factor 1 is required for remote ischemic preconditioning of the heart. <mark>Proceedings of the National Academy of Sciences</mark>, 110(43), pp.17462-17467.
       - Song, W., Shen, D.Y., Kang, J.H., Li, S.S., **Zhan, H.**W., Shi, Y., Xiong, Y.X., Liang, G. and Chen, Q.X., 2012. Apoptosis of human cholangiocarcinoma cells induced by ESC-3 from Crocodylus siamensis bile. <mark>World Journal of Gastroenterology: WJG</mark>, 18(7), p.704.
+
+      Oral Presentations:
+      - 2021 Cold Spring Harbor Laboratory Meeting: Cellular Dynamics & Models _(2021.05.19)_
+      - 2020 American Society for Cell Biology Annual Meeting: Subgroup “How Oncogenes Rewire the Cell” _(2020.12.08)_
+      - American Society for Biochemistry and Molecular Biology Lipid Research Division Seminar Series: New Roles for Phosphoinositides in Membrane Signaling _(2020.11.11)_
+      - The Joint PI3K Online Seminar Series of UCL (University College London) and MSKCC (Memorial Sloan Kettering Cancer Center) _(2020.10.09)_
+      - Johns Hopkins School of Medicine Center for Cell Dynamics Seminar Series _(2019.10.25)_
+      - 2019 Air Force Office of Scientific Research Biophysics Multidisciplinary University Research Initiatives (MURI) Program Review Meeting _(2019.05.08)_
+      - Johns Hopkins University School of Medicine Department of Biological Chemistry Annual Retreat _(2018.10.10)_
+      - 2017 Air Force Office of Scientific Research Biophysics Multidisciplinary University Research Initiatives (MURI) Program Review Meeting _(2017.10.11)_
+
+      Poster Presentations:
+      - 2020 American Society for Cell Biology Annual Meeting _(2020.12)_
+      - 2019 American Society for Cell Biology Annual Meeting _(2019.12)_
+      - 2019 Biophysical Society Annual Meeting _(2019.03)_
+      - 2019 Gordon Research Conference: Directed Cell Migration _(2019.01)_
+      - 2017 American Society for Cell Biology Annual Meeting _(2017.12)_
+      - 2017 American Association for Cancer Research Annual Meeting _(2017.04)_
+      - 2015 Biophysical Society Annual Meeting _(2015.02)_
 
   - title: A Little More About Me
     layout: text
