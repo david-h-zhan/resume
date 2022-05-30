@@ -71,7 +71,7 @@ content:
         #        quote: >
         #          Some quote*
         description: | # this will include new lines to allow paragraphs
-          Mentor: Peter Devreotes _(Member of the National Academy of Sciences, Department Chair at JHU-SOM)_
+          Mentor: [Peter Devreotes](https://en.wikipedia.org/wiki/Peter_N._Devreotes) _(Member of the National Academy of Sciences, Department Chair at JHU-SOM)_
 
           My Post-doctoral research focuses on energy regulation of cancer cells. Tumors are inclined to metabolize
           glucose anaerobically through glycolysis with lower ATP production efficiency rather than aerobically
@@ -90,8 +90,8 @@ content:
 #          Some quote*
         description: | # this will include new lines to allow paragraphs
           Mentors:
-          - 2014 - 2020: Peter Devreotes & Chuan-Hsiang (Bear) Huang
-          - 2012 - 2014: Gregg Semenza
+          - 2014 - 2020: [Peter Devreotes](https://en.wikipedia.org/wiki/Peter_N._Devreotes) & [Chuan-Hsiang (Bear) Huang](https://labs.pathology.jhu.edu/huang/team/)
+          - 2012 - 2014: [Gregg Semenza](https://en.wikipedia.org/wiki/Gregg_L._Semenza)
 
           My main PhD work found that the excitable signaling and cytoskeletal network components controlling cell
           migration and oncogenic transformation propagate as cortical waves, and this work led to a completely
