@@ -268,16 +268,16 @@ content:
       - 2017 American Association for Cancer Research Annual Meeting _(2017.04)_
       - 2015 Biophysical Society Annual Meeting _(2015.02)_
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in biomedical research, some of my other interests and hobbies are:
-      - Hobby 1
-      - Hobby 2
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#   - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Alongside my interests in biomedical research, some of my other interests and hobbies are:
+#       - Hobby 1
+#       - Hobby 2
+#       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/resume/images/landscape-trees.jpg "Trees")
+#       Look at this cool image  
+#       ![Trees](/resume/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: False
