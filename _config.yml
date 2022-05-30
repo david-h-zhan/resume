@@ -46,7 +46,8 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
+about_profile_image: https://media-exp1.licdn.com/dms/image/C5603AQG48zW2NYjNiA/profile-displayphoto-shrink_800_800/0/1609416383347?e=1659571200&v=beta&t=UC51eb8goS1ax2RINPvNgFw6qaG8anYwnceAku8hsWo
 about_content: | # this will include new lines to allow paragraphs
   I am a postdoctoral researcher at _Johns Hopkins University, School of Medicine_. Over the past 13+ years, I have
   accumulated extensive research experience in cancer, immunology, neuroscience and drug discovery, as well as
